@@ -101,6 +101,12 @@ a:hover {
     text-align: left;
 }
 
+.career {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+}
+
 
 .web {
     text-decoration:underline;
