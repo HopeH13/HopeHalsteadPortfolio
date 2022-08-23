@@ -106,7 +106,11 @@ a:hover {
     margin: 100px auto 100px auto;
     text-align:left;
 }
-
+.projects {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+}
 
 .web {
     text-decoration:underline;
